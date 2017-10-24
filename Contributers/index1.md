@@ -1,4 +1,4 @@
-Name: Bugphish Hackathon Team
+Name: Bigfish Hackathon Team
 Place: Washington D.C
 Tools of Trade : Arduino, Java, Android
 I love: Android and Chromium
