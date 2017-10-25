@@ -18,6 +18,7 @@ There are two ways to contribute :+1:
 
 You can create a PR (Pull Request) with your draft article (or edits on an existing article) in two ways:
 
+*Please star :star: and fork :heart: the repository before making your contributions as it will help resolve any # merge conflicts #* 
 
 The format to enter the info is as follows:
 # Please add two whitespaces after each row .
