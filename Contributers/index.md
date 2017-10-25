@@ -17,9 +17,9 @@ I love: apache commons, NumPy
 Languages I know: Java, Python, JavaScript    
 
 Name: Andrew Johnston   
-Place: California, United States
-Tools of Trade : Git, Atom, Vim+bash
-I love: AI, Machine Learning, React Apps    
+Place: California, United States    
+Tools of Trade : Git, Atom, Vim+bash    
+I love: AI, Machine Learning, React Apps        
 Languages I know: C++, Javascript (Vanilla, React)    
 
 Name: Sambhav Jain    
