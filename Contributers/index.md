@@ -2,7 +2,7 @@ Name: Neeraj Pandey
 Place: Kolkata , India   
 Tools of Trade : Eclipse , PyCharm , Toad , Git  
 I love: VLC , Torr , OpenAI  
-Languages I know: Java, Python, Bash,C, JavaScript    
+Languages I know: Java, Python, Bash,C, JavaScript
 
 Name: Paolo Isoardi  
 Place: Italy  
@@ -27,3 +27,9 @@ Place: Delhi, India
 Tools of Trade: Android Studio, Unity, Eclipse, Git
 I love: AI, OpenStreetMaps, Firefox
 Languages I Know: C/C++, Java
+
+Name: Christoffer Martinsen 
+Place: Sarpsborg , Norway
+Tools of Trade : PHPStorm , Sequel Pro , iTerm , Git  
+I love: Vue.js , Development , Beer
+Languages I know: PHP, Javascript, Bash, MySQL    
