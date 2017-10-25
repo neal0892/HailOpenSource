@@ -16,3 +16,8 @@ Tools of Trade : Git, Atom, Vim+bash
 I love: AI, Machine Learning, React Apps
 Languages I know: C++, Javascript (Vanilla, React)
 
+Name: Sambhav Jain
+Place: Delhi, India
+Tools of Trade: Android Studio, Unity, Eclipse, Git
+I love: AI, OpenStreetMaps, Firefox
+Languages I Know: C/C++, Java
