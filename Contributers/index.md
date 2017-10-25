@@ -12,24 +12,24 @@ Languages I know: Python, JavaScript, SQL
 
 Name: Blessie Gamboa  
 Place: Manila, Philippines   
-Tools of Trade : IntelliJ , Eclipse, Notepad++  
-I love: apache commons, NumPy
-Languages I know: Java, Python, JavaScript  
+Tools of Trade : IntelliJ , Eclipse, Notepad++      
+I love: apache commons, NumPy   
+Languages I know: Java, Python, JavaScript    
 
-Name: Andrew Johnston
+Name: Andrew Johnston   
 Place: California, United States
 Tools of Trade : Git, Atom, Vim+bash
-I love: AI, Machine Learning, React Apps
-Languages I know: C++, Javascript (Vanilla, React)
+I love: AI, Machine Learning, React Apps    
+Languages I know: C++, Javascript (Vanilla, React)    
 
-Name: Sambhav Jain
-Place: Delhi, India
-Tools of Trade: Android Studio, Unity, Eclipse, Git
-I love: AI, OpenStreetMaps, Firefox
-Languages I Know: C/C++, Java
+Name: Sambhav Jain    
+Place: Delhi, India     
+Tools of Trade: Android Studio, Unity, Eclipse, Git   
+I love: AI, OpenStreetMaps, Firefox     
+Languages I Know: C/C++, Java   
 
-Name: Christoffer Martinsen 
-Place: Sarpsborg , Norway
+Name: Christoffer Martinsen   
+Place: Sarpsborg , Norway   
 Tools of Trade : PHPStorm , Sequel Pro , iTerm , Git      
 I love: Vue.js , Development , Beer   
 Languages I know: PHP, Javascript, Bash, MySQL        
