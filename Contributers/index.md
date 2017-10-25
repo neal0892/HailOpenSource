@@ -33,3 +33,9 @@ Place: Sarpsborg , Norway
 Tools of Trade : PHPStorm , Sequel Pro , iTerm , Git  
 I love: Vue.js , Development , Beer
 Languages I know: PHP, Javascript, Bash, MySQL    
+
+Name: Yetunde Sola-Adebayo 
+Place: Houston 
+Tools of Trade : Notepad++  
+I love: Yarn, ReactNative, Bootstrap  
+Languages I know: HTML, CSS, JavaScript, Java 
