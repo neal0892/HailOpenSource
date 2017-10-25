@@ -10,6 +10,12 @@ Tools of Trade : Notepad++
 I love: Geoserver, Qgis  
 Languages I know: Python, JavaScript, SQL  
 
+Name: Blessie Gamboa  
+Place: Manila, Philippines   
+Tools of Trade : IntelliJ , Eclipse, Notepad++  
+I love: apache commons, NumPy
+Languages I know: Java, Python, JavaScript  
+
 Name: Andrew Johnston
 Place: California, United States
 Tools of Trade : Git, Atom, Vim+bash
