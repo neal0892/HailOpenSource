@@ -45,4 +45,10 @@ Place : Kolkata
 Tools : Git,Eclipse,PyCharm,STS
 I love : Java,CodeMonk
 Languages I know : Java,Python,RGEN
+
+Name: Atif Ameen  
+Place: Lucknow, India 
+Tools of Trade : Pycharm, Eclipse, Notepad++      
+I love: Machine Learning, Web Development   
+Languages I know: HTML/CSS, Python, JavaScript
 _______________________________
