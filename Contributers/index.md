@@ -52,9 +52,9 @@ Tools of Trade : Pycharm, Eclipse, Notepad++
 I love: Machine Learning, Web Development   
 Languages I know: HTML/CSS, Python, JavaScript
 
-Name: Burhan Bharmal
-Place: Ahmedabad, Gujarat, India
-Tools of Trade : VS Code, SourceTree, Chrome Dev Tools, Slack, Git
-I love: VS Code, Yarn, Notepad++, Git
-Languages I know: HTML/CSS (Saas/Less), JavaScript (StimulusJS, ReactJS, AngularJS, Angular2+, NodeJS, ExpressJS, MongoDB)
+Name: Burhan Bharmal  
+Place: Ahmedabad, Gujarat, India  
+Tools of Trade : VS Code, SourceTree, Chrome Dev Tools, Slack, Git  
+I love: VS Code, Yarn, Notepad++, Git  
+Languages I know: HTML/CSS (Saas/Less), JavaScript (StimulusJS, ReactJS, AngularJS, Angular2+, NodeJS, ExpressJS, MongoDB)  
 _______________________________
