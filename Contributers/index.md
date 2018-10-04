@@ -40,11 +40,11 @@ Tools of Trade : Notepad++
 I love: Yarn, ReactNative, Bootstrap    
 Languages I know: HTML, CSS, JavaScript, Java     
 
-Name: Neeraj Pandey
-Place : Kolkata
-Tools : Git,Eclipse,PyCharm,STS
-I love : Java,CodeMonk
-Languages I know : Java,Python,RGEN
+Name: Neeraj Pandey  
+Place : Kolkata  
+Tools : Git,Eclipse,PyCharm,STS  
+I love : Java,CodeMonk  
+Languages I know : Java,Python,RGEN  
 
 Name: Atif Ameen  
 Place: Lucknow, India 
